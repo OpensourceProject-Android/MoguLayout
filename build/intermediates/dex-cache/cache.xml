@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-1f611872ac73dfc09b5e01ec161200cc950a872b.jar" />
-    </item>
-    <item
-        jar="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/libs/xUtils-2.6.14.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/xUtils-2.6.14-51905b07e8069f1edf06f8dd21f70443cfb10178.jar" />
-    </item>
-    <item
         jar="/Users/jiangjieqiang/Documents/eclipse/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-1c38d15570c3927fc26d78e487028333723bbc85.jar" />
+        <dex dex="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-1c38d15570c3927fc26d78e487028333723bbc85.jar" />
     </item>
     <item
-        jar="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-6f8730cb7a7a6c51ed7b33d52011ebcfdd02f164.jar" />
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/pre-dexed/debug/classes-d785c31ba6f70fc3a2b754d97198d24bfe437c61.jar" />
     </item>
     <item
-        jar="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jar="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/jiangjieqiang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-9cdaf1acc6547523167b3904afb5afa481d0cd2a.jar" />
+        <dex dex="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/pre-dexed/debug/classes-b04ba3feb224ee7e63ca3fe14d3216b99d335fa2.jar" />
+    </item>
+    <item
+        jar="/Users/jiangjieqiang/Documents/github/MoguLayout/app/libs/xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/pre-dexed/debug/xUtils-2.6.14-943da5273bd122d40316b0616278039d19ae7ff4.jar" />
+    </item>
+    <item
+        jar="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/jiangjieqiang/Documents/github/MoguLayout/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-8ee4fd96bd371f5ff471d15b10f37745932acd68.jar" />
     </item>
 
 </items>
